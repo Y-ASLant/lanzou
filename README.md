@@ -28,18 +28,23 @@ $res=$lz->getUrl($url,$pwd);
 
 # 使用示例
 
-直接下载：
-无密码：http://tool.bitefu.net/lanzou/?url=https://www.lanzous.com/xxxx&type=down
+> 直接下载
 
-有密码：http://tool.bitefu.net/lanzou/?url=https://www.lanzous.com/xxxxx&type=down&pwd=1234
+#### 完整链接	
 
-输出直链：
-无密码：http://tool.bitefu.net/lanzou/?url=https://www.lanzous.com/xxxxx
+无密码：http://tool.bitefu.net/lanzou/?url=https://www.lanzous.com/xxxxxx&type=down
 
-有密码：http://tool.bitefu.net/lanzou/?url=https://www.lanzous.com/xxxx&pwd=1234
+有密码：http://tool.bitefu.net/lanzou/?url=https://www.lanzous.com/xxxxxxx&type=down&pwd=xxxx
 
 #### 短链接
 
 不带密码:http://tool.bitefu.net/lanzou/?d=iXAYR0e10dpe
 
 带密码:http://tool.bitefu.net/lanzou/?d=ic3qfri-52pj
+
+> 输出直链
+
+无密码：http://tool.bitefu.net/lanzou/?url=https://www.lanzous.com/xxxxx
+
+有密码：http://tool.bitefu.net/lanzou/?url=https://www.lanzous.com/xxxx&pwd=1234
+
